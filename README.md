@@ -23,4 +23,4 @@ In-kind contributions are goods or services donated by third parties (e.g., pare
 The main dashboard (built in Tableau) includes crosstab visualizations that indicate category-specific dollars by month, as well as a parameter that be used to switch funding categories on the fly.
 Primary KPIs being tracked are dollar amounts and percentages currently reached and remaining amounts left to reach yearly goals, which are a requirement of funders. 
 
-Also included in this project is a Python cleaning script (Jupyter Notebook) that is used to clean and standardize the dataset in a CSV that is downloaded from the database.  
+Also included in this repository is a Python cleaning script (Jupyter Notebook) that is used to clean and standardize the dataset in a CSV that is downloaded from the database.  
