@@ -20,6 +20,7 @@
 ## Overview
 This project is used to track In-Kind dollar matches for several funding sources in Early Childhood Education (ECE) programs in a non-profit organization for the 2025-2026 Program Year. 
 In-kind contributions are goods or services donated by third parties (e.g., parents, businesses, and community representatives) that directly benefit the ECE programs. These contributions have a measurable value and can be counted toward the program’s non-federal share requirement.
+
 The main dashboard (built in Tableau) includes crosstab visualizations that indicate category-specific dollars by month, as well as a parameter that be used to switch funding categories on the fly.
 Primary KPIs being tracked are dollar amounts and percentages currently reached and remaining amounts left to reach yearly goals, which are a requirement of funders. 
 
