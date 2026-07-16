@@ -29,6 +29,8 @@ Also included in this repository is a Python cleaning script (Jupyter Notebook) 
 ## Dashboard
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/7XXGD6Y2C?:display_count=n&:origin=viz_share_link)
 
+The "Select Funding Name" dropdown can be used to switche between views for different funding sources.
+
 ## Data Notice/Disclaimer
 The data used in this project has been anonymized and modified 
 for portfolio purposes. Program names and dollar amounts do not 
