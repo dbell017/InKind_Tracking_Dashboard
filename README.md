@@ -1,4 +1,4 @@
-In-Kind Contribution Tracking System 
+In-Kind Contribution Tracking Dashboard 
 
 ## Tools Used
 - Python (pandas, numpy)
